@@ -24,10 +24,8 @@ The main goal is to understand the characteristics and patterns of Chicago's pub
 * **Dataset:** Public Passenger Vehicle Licenses
 * **Records:** 16,330
 * **Columns:** 17
-* **Source:** City of Chicago Data Portal
+* **Source URL:** https://data.cityofchicago.org/Community-Economic-Development/Public-Passenger-Vehicle-Licenses/tfm3-3j95/about_data
 * **Domain:** Transportation
-
-[View Dataset](https://data.cityofchicago.org/Community-Economic-Development/Public-Passenger-Vehicle-Licenses/tfm3-3j95/about_data)
 
 ## 🛠️ Tools & Libraries
 
@@ -81,6 +79,6 @@ README.md
 
 ## 👩‍💻 Author
 
-**Aziya**
+**Azya M S**
 
 Data Analytics | Python | SQL | Power BI | Excel
